@@ -1,0 +1,66 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+a{
+	font-family: 'Chewy', cursive;
+}
+body{
+	font-family: 'Chewy', cursive;
+}
+
+header{
+	height: 80px;
+}
+
+.parallax { 
+    /* The image used */
+   
+}
+
+.fd {
+   background-color: :white ;
+
+}
+
+#pr1{
+	
+}
+
+.thumb-contenido{
+    
+    margin-bottom:1%;
+    margin-left: 0px;
+    padding-left: 0px;
+}
+
+.chewy{
+	font-family: 'Chewy', cursive;
+}
+
+p{
+	font-family: 'chewy', cursive;
+  text-indent: 10px;
+}
+
+h2{
+	font-family: 'chewy', cursive;
+}
+
+a{
+	font-family: 'chewy', cursive;
+}
+
+.contenedor-modal {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+
+.contenedor-modal button {
+  position: relative;
+  top: 40%;
+}
+
